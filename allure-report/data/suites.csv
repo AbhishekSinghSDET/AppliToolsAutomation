@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Jul 10 20:56:55 IST 2024","Wed Jul 10 20:56:55 IST 2024","2","Default Suite","AppliToolsAutomation","com.applitools.tests.CalculationTest","com.applitools.tests.CalculationTest","setup","setup",""
+"passed","Wed Jul 10 22:49:43 IST 2024","Wed Jul 10 22:49:46 IST 2024","2555","Default Suite","AppliToolsAutomation","com.applitools.tests.CalculationTest","com.applitools.tests.CalculationTest","calculate","calculate",""
+"skipped","Wed Jul 10 22:28:34 IST 2024","Wed Jul 10 22:28:34 IST 2024","1","Default Suite","AppliToolsAutomation","com.applitools.tests.CalculationTest","com.applitools.tests.CalculationTest","calculate","calculate",""
+"broken","Wed Jul 10 21:03:27 IST 2024","Wed Jul 10 21:03:27 IST 2024","1","Default Suite","AppliToolsAutomation","com.applitools.tests.CalculationTest","com.applitools.tests.CalculationTest","login","login",""

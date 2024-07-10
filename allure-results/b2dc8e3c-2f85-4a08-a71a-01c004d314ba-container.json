@@ -1,0 +1,1 @@
+{"uuid":"b2dc8e3c-2f85-4a08-a71a-01c004d314ba","name":"com.applitools.tests.CalculationTest","children":["fc201a77-06dc-433c-a8c5-aa6eb4367d91"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720631725076,"stop":1720631735241}],"afters":[],"links":[],"start":1720631725034,"stop":1720631739439}
